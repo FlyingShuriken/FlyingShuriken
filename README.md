@@ -1,5 +1,5 @@
-### Hi there ??, my name is FlyingShuriken
-My Website : [flyingshuriken.codes](https://flyingshuriken.codes)
+### Hi there 👋, my name is FlyingShuriken
+My Website : [flyingshuriken.codes](https://flyingshuriken.codes)  
 My Blog (Mostly in Chinese) : [blog.flyingshuriken.codes](https://blog.flyingshuriken.codes)
 
 - 🔭 I’m currently working on [GenaralPurposeNotifications](https://github.com/FlyingShuriken/GeneralPurposeNotifications) 
