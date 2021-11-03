@@ -2,8 +2,8 @@
 My Website : [flyingshuriken.codes](https://flyingshuriken.codes)
 My Blog (Mostly in Chinese) : [blog.flyingshuriken.codes](https://blog.flyingshuriken.codes)
 
-- ?? I�m currently working on [GenaralPurposeNotifications](https://github.com/FlyingShuriken/GeneralPurposeNotifications) 
-- ?? How to reach me: [mail@flyingshuriken.codes](mailto:mail@flyingshuriken.codes) 
+- 🔭 I’m currently working on [GenaralPurposeNotifications](https://github.com/FlyingShuriken/GeneralPurposeNotifications) 
+- 📫 How to reach me: [mail@flyingshuriken.codes](mailto:mail@flyingshuriken.codes) 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/FlyingShuriken)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/ShurikenFlying)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](flyingshuriken.codes)  
