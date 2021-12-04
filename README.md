@@ -4,7 +4,7 @@ My Blog (Mostly in Chinese) : [blog.flyingshuriken.codes](https://blog.flyingshu
 
 - 🔭 I’m currently working on   
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=flyingshuriken&repo=GeneralPurposeNotifications)](https://github.com/flyingshuriken/GeneralPurposeNotifications)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=flyingshuriken&repo=lys)](https://github.com/flyingshuriken/lys)
 
 - 📫 How to reach me: [mail@flyingshuriken.codes](mailto:mail@flyingshuriken.codes)  
 
