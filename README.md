@@ -1,10 +1,12 @@
 ### Hi there 👋, my name is FlyingShuriken
 My Website : [flyingshuriken.codes](https://flyingshuriken.codes)  
 My Blog (Mostly in Chinese) : [blog.flyingshuriken.codes](https://blog.flyingshuriken.codes)
+All the links about me : [links.flyingshuriken.codes](https://links.flyingshuriken.codes)
 
 - 🔭 I’m currently working on   
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=flyingshuriken&repo=lys)](https://github.com/flyingshuriken/lys)
+<!--   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=flyingshuriken&repo=lys)](https://github.com/flyingshuriken/lys) -->
+-----
 
 - 📫 How to reach me: [mail@flyingshuriken.codes](mailto:mail@flyingshuriken.codes)  
 
