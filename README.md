@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is FlyingShuriken
 
-My Website : [flyingshuriken.codes](https://flyingshuriken.com)  
+My Website : [flyingshuriken.com](https://flyingshuriken.com)  
 My Blog (Mostly in Chinese) : [blog.flyingshuriken.codes](https://blog.flyingshuriken.codes)  
 All the links about me : [links.flyingshuriken.codes](https://links.flyingshuriken.codes)
 
